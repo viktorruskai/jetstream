@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.0.1...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.0.2...5.x)
+
+## [v5.0.2](https://github.com/laravel/jetstream/compare/v5.0.1...v5.0.2) - 2024-03-29
+
+* Copy DatabaseSeeder when installing with team support by [@miclaus](https://github.com/miclaus) in https://github.com/laravel/jetstream/pull/1461
 
 ## [v5.0.1](https://github.com/laravel/jetstream/compare/v5.0.0...v5.0.1) - 2024-03-19
 
