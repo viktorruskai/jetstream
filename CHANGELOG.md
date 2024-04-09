@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.0.2...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.0.3...5.x)
+
+## [v5.0.3](https://github.com/laravel/jetstream/compare/v5.0.2...v5.0.3) - 2024-04-05
+
+* Fix incorrect annotations in Livewire components using "[@return](https://github.com/return) void" by [@coreymcmahon](https://github.com/coreymcmahon) in https://github.com/laravel/jetstream/pull/1467
+* [5.x] Install API optionally by [@hafezdivandari](https://github.com/hafezdivandari) in https://github.com/laravel/jetstream/pull/1470
 
 ## [v5.0.2](https://github.com/laravel/jetstream/compare/v5.0.1...v5.0.2) - 2024-03-29
 
