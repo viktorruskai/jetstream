@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.0.3...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.0.4...5.x)
+
+## [v5.0.4](https://github.com/laravel/jetstream/compare/v5.0.3...v5.0.4) - 2024-04-10
+
+* Revert "[5.x] Install API optionally" by [@taylorotwell](https://github.com/taylorotwell) in https://github.com/laravel/jetstream/pull/1473
 
 ## [v5.0.3](https://github.com/laravel/jetstream/compare/v5.0.2...v5.0.3) - 2024-04-05
 
