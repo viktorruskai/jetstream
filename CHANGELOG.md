@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.0.4...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.0.5...5.x)
+
+## [v5.0.5](https://github.com/laravel/jetstream/compare/v5.0.4...v5.0.5) - 2024-04-29
+
+* [5.x] Remove unused variables from test stubs by [@alsterholm](https://github.com/alsterholm) in https://github.com/laravel/jetstream/pull/1480
 
 ## [v5.0.4](https://github.com/laravel/jetstream/compare/v5.0.3...v5.0.4) - 2024-04-10
 
