@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.0.5...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.1.0...5.x)
+
+## [v5.1.0](https://github.com/laravel/jetstream/compare/v5.0.5...v5.1.0) - 2024-05-06
+
+* Add Disabled Class to Primary Button by [@alnutile](https://github.com/alnutile) in https://github.com/laravel/jetstream/pull/1482
+* Update banner styling and add warning banner functionality by [@gqrdev](https://github.com/gqrdev) in https://github.com/laravel/jetstream/pull/1486
 
 ## [v5.0.5](https://github.com/laravel/jetstream/compare/v5.0.4...v5.0.5) - 2024-04-29
 
