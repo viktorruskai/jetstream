@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.1.0...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.1.1...5.x)
+
+## [v5.1.1](https://github.com/laravel/jetstream/compare/v5.1.0...v5.1.1) - 2024-05-13
+
+* fix: replace hard-coded team invitation model table in unique validation rule by [@Tailzip](https://github.com/Tailzip) in https://github.com/laravel/jetstream/pull/1490
 
 ## [v5.1.0](https://github.com/laravel/jetstream/compare/v5.0.5...v5.1.0) - 2024-05-06
 
