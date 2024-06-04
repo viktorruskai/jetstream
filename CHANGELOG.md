@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.1.1...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.1.2...5.x)
+
+## [v5.1.2](https://github.com/laravel/jetstream/compare/v5.1.1...v5.1.2) - 2024-05-30
+
+* Fixed an issue causing missing column two_factor_confirmed_at when migrations executed during installation. by [@ravibpatel](https://github.com/ravibpatel) in https://github.com/laravel/jetstream/pull/1496
 
 ## [v5.1.1](https://github.com/laravel/jetstream/compare/v5.1.0...v5.1.1) - 2024-05-13
 
