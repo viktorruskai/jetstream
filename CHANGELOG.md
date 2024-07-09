@@ -1,6 +1,12 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.1.2...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.1.3...5.x)
+
+## [v5.1.3](https://github.com/laravel/jetstream/compare/v5.1.2...v5.1.3) - 2024-07-09
+
+* Add nullable types (applied from Pint) by [@ahinkle](https://github.com/ahinkle) in https://github.com/laravel/jetstream/pull/1499
+* Refactor from switch statement to match statement for dropdown blade component by [@phingoc1](https://github.com/phingoc1) in https://github.com/laravel/jetstream/pull/1509
+* [Vue] Fix: Prevent modal from closing on Escape key when closeable is false by [@ChazyTheBest](https://github.com/ChazyTheBest) in https://github.com/laravel/jetstream/pull/1510
 
 ## [v5.1.2](https://github.com/laravel/jetstream/compare/v5.1.1...v5.1.2) - 2024-05-30
 
