@@ -1,6 +1,11 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/jetstream/compare/v5.1.3...5.x)
+## [Unreleased](https://github.com/laravel/jetstream/compare/v5.1.4...5.x)
+
+## [v5.1.4](https://github.com/laravel/jetstream/compare/v5.1.3...v5.1.4) - 2024-07-10
+
+* Update dropdown.blade.php with w-60 by [@rjvim](https://github.com/rjvim) in https://github.com/laravel/jetstream/pull/1515
+* Fixes unhandled match case error by [@inmanturbo](https://github.com/inmanturbo) in https://github.com/laravel/jetstream/pull/1513
 
 ## [v5.1.3](https://github.com/laravel/jetstream/compare/v5.1.2...v5.1.3) - 2024-07-09
 
